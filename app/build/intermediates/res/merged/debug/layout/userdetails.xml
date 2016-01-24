@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/SteelBlue"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/meetingNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_marginBottom="2dp"
+        android:text="Details"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="25sp" />
+
+         	<View
+         	    android:layout_width="fill_parent"
+         	    android:layout_height="2dp"
+         	    android:layout_marginBottom="10dp"
+         	    android:background="@color/Black" />
+
+         	<EditText
+         	    android:id="@+id/firstNameEditText"
+         	    android:layout_width="match_parent"
+         	    android:layout_height="40dp"
+         	    android:layout_margin="10dp"
+         	    android:background="#CDCDCD"
+         	    android:ems="10"
+         	    android:hint="First Name"
+         	    android:inputType="textPersonName" >
+
+         	    <requestFocus />
+         	</EditText>
+
+         	<EditText
+         	    android:id="@+id/lastNameEditText"
+         	    android:layout_width="match_parent"
+         	    android:layout_height="40dp"
+         	    android:layout_margin="10dp"
+         	    android:background="#CDCDCD"
+         	    android:ems="10"
+         	    android:hint="Last Name"
+         	    android:inputType="textPersonName" />
+
+         	<EditText
+         	    android:id="@+id/userIDEditText"
+         	    android:layout_width="match_parent"
+         	    android:layout_height="40dp"
+         	    android:layout_margin="10dp"
+         	    android:background="#CDCDCD"
+         	    android:ems="10"
+         	    android:hint="User ID"
+         	    android:inputType="number" />
+
+         	<TextView
+         	    android:id="@+id/sumMeetingtextView"
+         	    android:layout_width="wrap_content"
+         	    android:layout_height="wrap_content"
+         	    android:layout_marginLeft="10dp"
+         	    android:text="Department"
+         	    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+         	<Spinner
+         	    android:id="@+id/departmentSpinner"
+         	    android:layout_width="match_parent"
+         	    android:layout_height="50dp"
+         	    android:layout_marginBottom="10dp"
+         	    android:layout_marginLeft="10dp"
+         	    android:layout_marginRight="10dp"
+         	    android:layout_marginTop="3dp"
+         	    android:background="#CDCDCD"
+         	    android:entries="@array/department" />
+
+         	<RelativeLayout
+         	    android:layout_width="match_parent"
+         	    android:layout_height="match_parent" >
+
+         		<Button
+         		    android:id="@+id/skipButton"
+         		    android:layout_width="100dp"
+         		    android:layout_height="wrap_content"
+         		    android:layout_alignParentBottom="true"
+         		    android:layout_alignParentLeft="true"
+         		    android:layout_margin="10dp"
+         		    android:background="@android:drawable/btn_default_small"
+         		    android:text="Skip" />
+
+         		<Button
+         		    android:id="@+id/userSubmitButton"
+         		    android:layout_width="100dp"
+         		    android:layout_height="wrap_content"
+         		    android:layout_alignParentBottom="true"
+         		    android:layout_alignParentRight="true"
+         		    android:layout_margin="10dp"
+         		    android:background="@android:drawable/btn_default_small"
+         		    android:text="Submit" />
+
+         	</RelativeLayout>
+         	
+</LinearLayout>

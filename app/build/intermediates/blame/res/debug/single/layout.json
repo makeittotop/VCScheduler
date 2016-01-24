@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/all_vc_page.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/all_vc_page.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/my_vc_page.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/my_vc_page.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/fragment_main_dummy.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/fragment_main_dummy.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/userdetails.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/userdetails.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/vidyoroomlist.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/vidyoroomlist.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/roomview.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/roomview.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/signin.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/signin.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/fragment_schedule_vc_form_v_3.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/fragment_schedule_vc_form_v_3.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/myvcs_confspinnerrow.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/myvcs_confspinnerrow.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/fragment_schedule_vc_form.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/fragment_schedule_vc_form.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/vc_more_options_activity_back.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/vc_more_options_activity_back.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/meetingsummary.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/meetingsummary.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/fragment_schedule_vc_form_v_5.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/fragment_schedule_vc_form_v_5.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/fragment_schedule_vc_form_v_2.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/fragment_schedule_vc_form_v_2.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/processing.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/processing.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/fragment_schedule_vc_form_v_4.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/fragment_schedule_vc_form_v_4.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/vc_more_options_activity.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/vc_more_options_activity.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/foo.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/foo.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/layout/fragment_schedule_vc_form_v_6.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/layout/fragment_schedule_vc_form_v_6.xml"
+    }
+]

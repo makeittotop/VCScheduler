@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "locations">
+        <item> HYD </item>
+        <item> MUM </item>
+        <item> KAO </item>
+        <item> LA </item>
+        <item> VAN </item>
+    </string-array>
+    
+    <string-array name = "status">
+        <item > 1 </item>
+                <item > 1 </item>
+                <item > 1 </item>
+                        <item > 1 </item>
+                        <item > 1 </item>
+    </string-array>
+</resources>

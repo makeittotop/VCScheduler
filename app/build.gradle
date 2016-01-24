@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.apareek.rnhvidyoscheduler"
+        minSdkVersion 16
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/xstream-1.4.4.jar')
+    compile files('libs/xstream-benchmark-1.4.4.jar')
+    compile files('libs/xstream-hibernate-1.4.4.jar')
+}

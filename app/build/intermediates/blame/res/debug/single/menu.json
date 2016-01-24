@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/menu/mainmenu.xml",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/menu/mainmenu.xml"
+    }
+]

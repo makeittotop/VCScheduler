@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">R+H VC Scheduler</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">My VC Scheduler</string>
+    <string name="title_section2">My VC List </string>
+    <string name="title_section3">All VC List</string>
+    <string name="total_pages">1</string>
+    <string name="more_options">Other Details</string>
+    <string name="sign_in">Sign In</string>
+        <string name="user_details">User Details</string>
+    
+    
+
+</resources>

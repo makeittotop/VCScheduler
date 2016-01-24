@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name = "hyd_conference_room">
+        <item> HYD-HutConference-DDR  </item>
+		<item> HYD-Cabin-3-DDR </item>
+		<item> HYD-ReproConferenceRoom-DDR </item>
+		<item> HYD-ElevatedConferenceRoom1-DDR </item>
+		<item> HYD-Cabin-6-DDR </item>
+		<item> HYD-ConferenceRoom-4-DDR </item>
+		<item> HYD-LibraryRoom-DDR </item>
+		<item> HYD-ConferenceRoom1-DDR </item>
+		<item> HYD-ElevatedConferenceRoom2-DDR </item>
+		<item> HYD-Cabin-2-DDR </item>
+		<item> HYD-ScreeningRoom-DDR </item>
+		<item> HYD-DurgamCheruvuRoom-DDR </item>
+		<item> HYD-PrasadCabin-DDR </item>
+		<item> HYD-Cabin-5-DDR </item>
+		<item> HYD-ConferenceRoom2-DDR </item>
+    </string-array>
+    
+    <string-array name = "mum_conference_room">
+        <item> mum-cabin3-ddr </item>
+		<item> mum-cabin5-ddr </item>
+		<item> mum-cabin6-ddr </item>
+		<item> mum-cabin7-polycom </item>
+		<item> mum-conferenceroom5-ddr </item>
+		<item> mum-conferenceroom6-ddr </item>
+		<item> mum-conferenceroom6-recording </item>
+		<item> mum-educationroom-ddr </item>
+		<item> mum-educationroom-lifesize </item>
+		<item> mum-operations </item>
+		<item> mum-pod11-ddr </item>
+		<item> mum-pod11-recording </item>
+		<item> mum-prismroom-ddr </item>
+		<item> mum-room10-ddr </item>
+		<item> mum-room11-ddr </item>
+		<item> mum-room11-recording </item>
+		<item> mum-room12-ddr </item>
+		<item> mum-room2-ddr </item>
+		<item> mum-room7-ddr </item>
+		<item> mum-room8-ddr </item>
+		<item> mum-room9-ddr </item>
+		<item> mum-screen-220 </item>
+		<item> mum-screeningroom-ddr </item>
+		<item> mum-screeningroom-lifesize </item>
+		<item> mum-screeningroom2-ddr </item>
+		<item> mum-screeningroom2-recording </item>
+		<item> mum-test-ddr </item>
+		<item> mum-visitorsconference-lifesize </item>
+		<item> mum-visitorsroom-ddr </item>
+		<item> mum-warliroom-ddr </item>
+		<item> mum-zenzi-hd220 </item>
+		<item> mum-zenziroom-ddr </item>
+		<item> mum-zenziroom-recording </item>
+    </string-array>
+</resources>

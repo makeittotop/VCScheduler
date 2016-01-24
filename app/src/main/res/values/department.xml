@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department">
+                <item>Tech Animation</item>
+                <item>Matchmove and Track</item>
+                        <item>Lookdev</item>
+                        <item>Lighting</item>
+                                <item>Animation</item>
+                                <item>Modeling</item>
+                                        <item>Compositing</item>
+                                
+    </string-array>
+</resources>

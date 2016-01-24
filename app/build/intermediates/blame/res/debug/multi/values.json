@@ -1,0 +1,3554 @@
+[
+    {
+        "outputFile": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/department.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endLine": 4051,
+                    "endColumn": 19,
+                    "endOffset": 210873
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/employeedump.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4041,
+                        "endColumn": 19,
+                        "endOffset": 210425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4052,
+                    "startColumn": 4,
+                    "startOffset": 210878,
+                    "endLine": 4068,
+                    "endColumn": 19,
+                    "endOffset": 211540
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/confRoom.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 19,
+                        "endColumn": 19,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4069,
+                    "startColumn": 4,
+                    "startOffset": 211545,
+                    "endLine": 4075,
+                    "endColumn": 19,
+                    "endOffset": 211730
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/locations.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 8,
+                        "endColumn": 19,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4076,
+                    "startColumn": 4,
+                    "startOffset": 211735,
+                    "endLine": 4110,
+                    "endColumn": 19,
+                    "endOffset": 213001
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/confRoom.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endLine": 55,
+                        "endColumn": 19,
+                        "endOffset": 2005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4111,
+                    "startColumn": 4,
+                    "startOffset": 213006,
+                    "endLine": 4116,
+                    "endColumn": 19,
+                    "endOffset": 213251
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/repeat.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4117,
+                    "startColumn": 4,
+                    "startOffset": 213256,
+                    "endLine": 4123,
+                    "endColumn": 19,
+                    "endOffset": 213477
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/locations.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4124,
+                    "startColumn": 4,
+                    "startOffset": 213482,
+                    "endLine": 4128,
+                    "endColumn": 19,
+                    "endOffset": 213700
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/timezone.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4129,
+                    "startColumn": 4,
+                    "startOffset": 213705,
+                    "endLine": 4728,
+                    "endColumn": 27,
+                    "endOffset": 230223
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/vidyoRoom.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 8,
+                        "startOffset": 59,
+                        "endLine": 602,
+                        "endColumn": 27,
+                        "endOffset": 16587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4729,
+                    "startColumn": 4,
+                    "startOffset": 230228,
+                    "endColumn": 43,
+                    "endOffset": 230267
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 2451,
+                        "endColumn": 40,
+                        "endOffset": 2490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4730,
+                    "startColumn": 4,
+                    "startOffset": 230272,
+                    "endColumn": 46,
+                    "endOffset": 230314
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 2051,
+                        "endColumn": 43,
+                        "endOffset": 2093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4731,
+                    "startColumn": 4,
+                    "startOffset": 230319,
+                    "endColumn": 38,
+                    "endOffset": 230353
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 1,
+                        "startOffset": 5777,
+                        "endColumn": 35,
+                        "endOffset": 5811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4732,
+                    "startColumn": 4,
+                    "startOffset": 230358,
+                    "endColumn": 44,
+                    "endOffset": 230398
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 1,
+                        "startOffset": 4617,
+                        "endColumn": 41,
+                        "endOffset": 4657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4733,
+                    "startColumn": 4,
+                    "startOffset": 230403,
+                    "endColumn": 39,
+                    "endOffset": 230438
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 2374,
+                        "endColumn": 36,
+                        "endOffset": 2409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4734,
+                    "startColumn": 4,
+                    "startOffset": 230443,
+                    "endColumn": 39,
+                    "endOffset": 230478
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 2258,
+                        "endColumn": 36,
+                        "endOffset": 2293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4735,
+                    "startColumn": 4,
+                    "startOffset": 230483,
+                    "endColumn": 40,
+                    "endOffset": 230519
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1217,
+                        "endColumn": 37,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4736,
+                    "startColumn": 4,
+                    "startOffset": 230524,
+                    "endColumn": 39,
+                    "endOffset": 230559
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 1,
+                        "startOffset": 6373,
+                        "endColumn": 36,
+                        "endOffset": 6408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4737,
+                    "startColumn": 4,
+                    "startOffset": 230564,
+                    "endColumn": 48,
+                    "endOffset": 230608
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1130,
+                        "endColumn": 45,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4738,
+                    "startColumn": 4,
+                    "startOffset": 230613,
+                    "endColumn": 38,
+                    "endOffset": 230647
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 1,
+                        "startOffset": 6219,
+                        "endColumn": 35,
+                        "endOffset": 6253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4739,
+                    "startColumn": 4,
+                    "startOffset": 230652,
+                    "endColumn": 44,
+                    "endOffset": 230692
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 1,
+                        "startOffset": 4343,
+                        "endColumn": 41,
+                        "endOffset": 4383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4740,
+                    "startColumn": 4,
+                    "startOffset": 230697,
+                    "endColumn": 39,
+                    "endOffset": 230732
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 1,
+                        "startOffset": 3845,
+                        "endColumn": 36,
+                        "endOffset": 3880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4741,
+                    "startColumn": 4,
+                    "startOffset": 230737,
+                    "endColumn": 43,
+                    "endOffset": 230776
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 2777,
+                        "endColumn": 40,
+                        "endOffset": 2816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4742,
+                    "startColumn": 4,
+                    "startOffset": 230781,
+                    "endColumn": 43,
+                    "endOffset": 230820
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 1,
+                        "startOffset": 5091,
+                        "endColumn": 40,
+                        "endOffset": 5130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4743,
+                    "startColumn": 4,
+                    "startOffset": 230825,
+                    "endColumn": 44,
+                    "endOffset": 230865
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 1,
+                        "startOffset": 4659,
+                        "endColumn": 41,
+                        "endOffset": 4699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4744,
+                    "startColumn": 4,
+                    "startOffset": 230870,
+                    "endColumn": 43,
+                    "endOffset": 230909
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 1,
+                        "startOffset": 3173,
+                        "endColumn": 40,
+                        "endOffset": 3212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4745,
+                    "startColumn": 4,
+                    "startOffset": 230914,
+                    "endColumn": 39,
+                    "endOffset": 230949
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 1615,
+                        "endColumn": 36,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4746,
+                    "startColumn": 4,
+                    "startOffset": 230954,
+                    "endColumn": 48,
+                    "endOffset": 230998
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 1,
+                        "startOffset": 5045,
+                        "endColumn": 45,
+                        "endOffset": 5089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4747,
+                    "startColumn": 4,
+                    "startOffset": 231003,
+                    "endColumn": 42,
+                    "endOffset": 231041
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 963,
+                        "endColumn": 39,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4748,
+                    "startColumn": 4,
+                    "startOffset": 231046,
+                    "endColumn": 41,
+                    "endOffset": 231083
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 2895,
+                        "endColumn": 38,
+                        "endOffset": 2932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4749,
+                    "startColumn": 4,
+                    "startOffset": 231088,
+                    "endColumn": 38,
+                    "endOffset": 231122
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 1,
+                        "startOffset": 5813,
+                        "endColumn": 35,
+                        "endOffset": 5847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4750,
+                    "startColumn": 4,
+                    "startOffset": 231127,
+                    "endColumn": 42,
+                    "endOffset": 231165
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 1,
+                        "startOffset": 6297,
+                        "endColumn": 39,
+                        "endOffset": 6335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4751,
+                    "startColumn": 4,
+                    "startOffset": 231170,
+                    "endColumn": 42,
+                    "endOffset": 231208
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 1,
+                        "startOffset": 6065,
+                        "endColumn": 39,
+                        "endOffset": 6103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4752,
+                    "startColumn": 4,
+                    "startOffset": 231213,
+                    "endColumn": 47,
+                    "endOffset": 231256
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 1,
+                        "startOffset": 3502,
+                        "endColumn": 44,
+                        "endOffset": 3545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4753,
+                    "startColumn": 4,
+                    "startOffset": 231261,
+                    "endColumn": 42,
+                    "endOffset": 231299
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 1,
+                        "startOffset": 3805,
+                        "endColumn": 39,
+                        "endOffset": 3843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4754,
+                    "startColumn": 4,
+                    "startOffset": 231304,
+                    "endColumn": 43,
+                    "endOffset": 231343
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 1,
+                        "startOffset": 6178,
+                        "endColumn": 40,
+                        "endOffset": 6217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4755,
+                    "startColumn": 4,
+                    "startOffset": 231348,
+                    "endColumn": 43,
+                    "endOffset": 231387
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 1,
+                        "startOffset": 3376,
+                        "endColumn": 40,
+                        "endOffset": 3415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4756,
+                    "startColumn": 4,
+                    "startOffset": 231392,
+                    "endColumn": 45,
+                    "endOffset": 231433
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 1,
+                        "startOffset": 4261,
+                        "endColumn": 42,
+                        "endOffset": 4302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4757,
+                    "startColumn": 4,
+                    "startOffset": 231438,
+                    "endColumn": 48,
+                    "endOffset": 231482
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 1,
+                        "startOffset": 5132,
+                        "endColumn": 45,
+                        "endOffset": 5176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4758,
+                    "startColumn": 4,
+                    "startOffset": 231487,
+                    "endColumn": 44,
+                    "endOffset": 231527
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 1573,
+                        "endColumn": 41,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4759,
+                    "startColumn": 4,
+                    "startOffset": 231532,
+                    "endColumn": 44,
+                    "endOffset": 231572
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 1,
+                        "startOffset": 3963,
+                        "endColumn": 41,
+                        "endOffset": 4003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4760,
+                    "startColumn": 4,
+                    "startOffset": 231577,
+                    "endColumn": 41,
+                    "endOffset": 231614
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 1,
+                        "startOffset": 4304,
+                        "endColumn": 38,
+                        "endOffset": 4341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4761,
+                    "startColumn": 4,
+                    "startOffset": 231619,
+                    "endColumn": 44,
+                    "endOffset": 231659
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 2654,
+                        "endColumn": 41,
+                        "endOffset": 2694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4762,
+                    "startColumn": 4,
+                    "startOffset": 231664,
+                    "endColumn": 46,
+                    "endOffset": 231706
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 1,
+                        "startOffset": 4174,
+                        "endColumn": 43,
+                        "endOffset": 4216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4763,
+                    "startColumn": 4,
+                    "startOffset": 231711,
+                    "endColumn": 47,
+                    "endOffset": 231754
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 1,
+                        "startOffset": 5263,
+                        "endColumn": 44,
+                        "endOffset": 5306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4764,
+                    "startColumn": 4,
+                    "startOffset": 231759,
+                    "endColumn": 47,
+                    "endOffset": 231802
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 1,
+                        "startOffset": 5518,
+                        "endColumn": 44,
+                        "endOffset": 5561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4765,
+                    "startColumn": 4,
+                    "startOffset": 231807,
+                    "endColumn": 47,
+                    "endOffset": 231850
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 1,
+                        "startOffset": 5977,
+                        "endColumn": 44,
+                        "endOffset": 6020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4766,
+                    "startColumn": 4,
+                    "startOffset": 231855,
+                    "endColumn": 44,
+                    "endOffset": 231895
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 1,
+                        "startOffset": 4046,
+                        "endColumn": 41,
+                        "endOffset": 4086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4767,
+                    "startColumn": 4,
+                    "startOffset": 231900,
+                    "endColumn": 42,
+                    "endOffset": 231938
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 1770,
+                        "endColumn": 39,
+                        "endOffset": 1808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4768,
+                    "startColumn": 4,
+                    "startOffset": 231943,
+                    "endColumn": 45,
+                    "endOffset": 231984
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 1,
+                        "startOffset": 6022,
+                        "endColumn": 42,
+                        "endOffset": 6063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4769,
+                    "startColumn": 4,
+                    "startOffset": 231989,
+                    "endColumn": 41,
+                    "endOffset": 232026
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 1,
+                        "startOffset": 4958,
+                        "endColumn": 38,
+                        "endOffset": 4995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4770,
+                    "startColumn": 4,
+                    "startOffset": 232031,
+                    "endColumn": 44,
+                    "endOffset": 232071
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 1,
+                        "startOffset": 5691,
+                        "endColumn": 41,
+                        "endOffset": 5731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4771,
+                    "startColumn": 4,
+                    "startOffset": 232076,
+                    "endColumn": 43,
+                    "endOffset": 232115
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 1,
+                        "startOffset": 3547,
+                        "endColumn": 40,
+                        "endOffset": 3586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4772,
+                    "startColumn": 4,
+                    "startOffset": 232120,
+                    "endColumn": 45,
+                    "endOffset": 232161
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 876,
+                        "endColumn": 42,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4773,
+                    "startColumn": 4,
+                    "startOffset": 232166,
+                    "endColumn": 45,
+                    "endOffset": 232207
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 1,
+                        "startOffset": 5603,
+                        "endColumn": 42,
+                        "endOffset": 5644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4774,
+                    "startColumn": 4,
+                    "startOffset": 232212,
+                    "endColumn": 41,
+                    "endOffset": 232249
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 1810,
+                        "endColumn": 38,
+                        "endOffset": 1847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4775,
+                    "startColumn": 4,
+                    "startOffset": 232254,
+                    "endColumn": 43,
+                    "endOffset": 232293
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 2854,
+                        "endColumn": 40,
+                        "endOffset": 2893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4776,
+                    "startColumn": 4,
+                    "startOffset": 232298,
+                    "endColumn": 44,
+                    "endOffset": 232338
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 2133,
+                        "endColumn": 41,
+                        "endOffset": 2173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4777,
+                    "startColumn": 4,
+                    "startOffset": 232343,
+                    "endColumn": 38,
+                    "endOffset": 232377
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1379,
+                        "endColumn": 35,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4778,
+                    "startColumn": 4,
+                    "startOffset": 232382,
+                    "endColumn": 43,
+                    "endOffset": 232421
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 2979,
+                        "endColumn": 40,
+                        "endOffset": 3018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4779,
+                    "startColumn": 4,
+                    "startOffset": 232426,
+                    "endColumn": 38,
+                    "endOffset": 232460
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 1,
+                        "startOffset": 4468,
+                        "endColumn": 35,
+                        "endOffset": 4502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4780,
+                    "startColumn": 4,
+                    "startOffset": 232465,
+                    "endColumn": 39,
+                    "endOffset": 232500
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 1,
+                        "startOffset": 6141,
+                        "endColumn": 36,
+                        "endOffset": 6176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4781,
+                    "startColumn": 4,
+                    "startOffset": 232505,
+                    "endColumn": 45,
+                    "endOffset": 232546
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 1,
+                        "startOffset": 3721,
+                        "endColumn": 42,
+                        "endOffset": 3762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4782,
+                    "startColumn": 4,
+                    "startOffset": 232551,
+                    "endColumn": 42,
+                    "endOffset": 232589
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2411,
+                        "endColumn": 39,
+                        "endOffset": 2449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4783,
+                    "startColumn": 4,
+                    "startOffset": 232594,
+                    "endColumn": 41,
+                    "endOffset": 232631
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 1652,
+                        "endColumn": 38,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4784,
+                    "startColumn": 4,
+                    "startOffset": 232636,
+                    "endColumn": 43,
+                    "endOffset": 232675
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 1,
+                        "startOffset": 3250,
+                        "endColumn": 40,
+                        "endOffset": 3289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4785,
+                    "startColumn": 4,
+                    "startOffset": 232680,
+                    "endColumn": 40,
+                    "endOffset": 232716
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 1,
+                        "startOffset": 5178,
+                        "endColumn": 37,
+                        "endOffset": 5214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4786,
+                    "startColumn": 4,
+                    "startOffset": 232721,
+                    "endColumn": 39,
+                    "endOffset": 232756
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 722,
+                        "endColumn": 36,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4787,
+                    "startColumn": 4,
+                    "startOffset": 232761,
+                    "endColumn": 39,
+                    "endOffset": 232796
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 1,
+                        "startOffset": 2492,
+                        "endColumn": 36,
+                        "endOffset": 2527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4788,
+                    "startColumn": 4,
+                    "startOffset": 232801,
+                    "endColumn": 42,
+                    "endOffset": 232839
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 2696,
+                        "endColumn": 39,
+                        "endOffset": 2734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4789,
+                    "startColumn": 4,
+                    "startOffset": 232844,
+                    "endColumn": 47,
+                    "endOffset": 232887
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1043,
+                        "endColumn": 44,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4790,
+                    "startColumn": 4,
+                    "startOffset": 232892,
+                    "endColumn": 43,
+                    "endOffset": 232931
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 1,
+                        "startOffset": 4701,
+                        "endColumn": 40,
+                        "endOffset": 4740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4791,
+                    "startColumn": 4,
+                    "startOffset": 232936,
+                    "endColumn": 46,
+                    "endOffset": 232978
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 919,
+                        "endColumn": 43,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4792,
+                    "startColumn": 4,
+                    "startOffset": 232983,
+                    "endColumn": 43,
+                    "endOffset": 233022
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 1,
+                        "startOffset": 3764,
+                        "endColumn": 40,
+                        "endOffset": 3803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4793,
+                    "startColumn": 4,
+                    "startOffset": 233027,
+                    "endColumn": 44,
+                    "endOffset": 233067
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 2529,
+                        "endColumn": 41,
+                        "endOffset": 2569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4794,
+                    "startColumn": 4,
+                    "startOffset": 233072,
+                    "endColumn": 43,
+                    "endOffset": 233111
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 2736,
+                        "endColumn": 40,
+                        "endOffset": 2775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4795,
+                    "startColumn": 4,
+                    "startOffset": 233116,
+                    "endColumn": 54,
+                    "endOffset": 233166
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 1962,
+                        "endColumn": 51,
+                        "endOffset": 2012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4796,
+                    "startColumn": 4,
+                    "startOffset": 233171,
+                    "endColumn": 44,
+                    "endOffset": 233211
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 1,
+                        "startOffset": 4132,
+                        "endColumn": 41,
+                        "endOffset": 4172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4797,
+                    "startColumn": 4,
+                    "startOffset": 233216,
+                    "endColumn": 43,
+                    "endOffset": 233255
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 1,
+                        "startOffset": 3097,
+                        "endColumn": 40,
+                        "endOffset": 3136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4798,
+                    "startColumn": 4,
+                    "startOffset": 233260,
+                    "endColumn": 43,
+                    "endOffset": 233299
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1451,
+                        "endColumn": 40,
+                        "endOffset": 1490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4799,
+                    "startColumn": 4,
+                    "startOffset": 233304,
+                    "endColumn": 45,
+                    "endOffset": 233345
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1530,
+                        "endColumn": 42,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4800,
+                    "startColumn": 4,
+                    "startOffset": 233350,
+                    "endColumn": 47,
+                    "endOffset": 233393
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 1,
+                        "startOffset": 5646,
+                        "endColumn": 44,
+                        "endOffset": 5689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4801,
+                    "startColumn": 4,
+                    "startOffset": 233398,
+                    "endColumn": 46,
+                    "endOffset": 233440
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 1,
+                        "startOffset": 4385,
+                        "endColumn": 43,
+                        "endOffset": 4427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4802,
+                    "startColumn": 4,
+                    "startOffset": 233445,
+                    "endColumn": 48,
+                    "endOffset": 233489
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 1,
+                        "startOffset": 4789,
+                        "endColumn": 45,
+                        "endOffset": 4833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4803,
+                    "startColumn": 4,
+                    "startOffset": 233494,
+                    "endColumn": 48,
+                    "endOffset": 233538
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 1,
+                        "startOffset": 3630,
+                        "endColumn": 45,
+                        "endOffset": 3674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4804,
+                    "startColumn": 4,
+                    "startOffset": 233543,
+                    "endColumn": 45,
+                    "endOffset": 233584
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 759,
+                        "endColumn": 42,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4805,
+                    "startColumn": 4,
+                    "startOffset": 233589,
+                    "endColumn": 38,
+                    "endOffset": 233623
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 1,
+                        "startOffset": 5892,
+                        "endColumn": 35,
+                        "endOffset": 5926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4806,
+                    "startColumn": 4,
+                    "startOffset": 233628,
+                    "endColumn": 43,
+                    "endOffset": 233667
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 1,
+                        "startOffset": 5477,
+                        "endColumn": 40,
+                        "endOffset": 5516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4807,
+                    "startColumn": 4,
+                    "startOffset": 233672,
+                    "endColumn": 39,
+                    "endOffset": 233707
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 2014,
+                        "endColumn": 36,
+                        "endOffset": 2049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4808,
+                    "startColumn": 4,
+                    "startOffset": 233712,
+                    "endColumn": 41,
+                    "endOffset": 233749
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 1849,
+                        "endColumn": 38,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4809,
+                    "startColumn": 4,
+                    "startOffset": 233754,
+                    "endColumn": 40,
+                    "endOffset": 233790
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 1,
+                        "startOffset": 4579,
+                        "endColumn": 37,
+                        "endOffset": 4615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4810,
+                    "startColumn": 4,
+                    "startOffset": 233795,
+                    "endColumn": 50,
+                    "endOffset": 233841
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 1,
+                        "startOffset": 4997,
+                        "endColumn": 47,
+                        "endOffset": 5043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4811,
+                    "startColumn": 4,
+                    "startOffset": 233846,
+                    "endColumn": 44,
+                    "endOffset": 233886
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 1,
+                        "startOffset": 6255,
+                        "endColumn": 41,
+                        "endOffset": 6295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4812,
+                    "startColumn": 4,
+                    "startOffset": 233891,
+                    "endColumn": 46,
+                    "endOffset": 233933
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 1,
+                        "startOffset": 3458,
+                        "endColumn": 43,
+                        "endOffset": 3500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4813,
+                    "startColumn": 4,
+                    "startOffset": 233938,
+                    "endColumn": 46,
+                    "endOffset": 233980
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 1,
+                        "startOffset": 4088,
+                        "endColumn": 43,
+                        "endOffset": 4130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4814,
+                    "startColumn": 4,
+                    "startOffset": 233985,
+                    "endColumn": 48,
+                    "endOffset": 234029
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 1,
+                        "startOffset": 5431,
+                        "endColumn": 45,
+                        "endOffset": 5475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4815,
+                    "startColumn": 4,
+                    "startOffset": 234034,
+                    "endColumn": 49,
+                    "endOffset": 234079
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 1,
+                        "startOffset": 4742,
+                        "endColumn": 46,
+                        "endOffset": 4787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4816,
+                    "startColumn": 4,
+                    "startOffset": 234084,
+                    "endColumn": 51,
+                    "endOffset": 234131
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 1,
+                        "startOffset": 5928,
+                        "endColumn": 48,
+                        "endOffset": 5975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4817,
+                    "startColumn": 4,
+                    "startOffset": 234136,
+                    "endColumn": 49,
+                    "endOffset": 234181
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 1,
+                        "startOffset": 5216,
+                        "endColumn": 46,
+                        "endOffset": 5261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4818,
+                    "startColumn": 4,
+                    "startOffset": 234186,
+                    "endColumn": 49,
+                    "endOffset": 234231
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 1,
+                        "startOffset": 3291,
+                        "endColumn": 46,
+                        "endOffset": 3336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4819,
+                    "startColumn": 4,
+                    "startOffset": 234236,
+                    "endColumn": 46,
+                    "endOffset": 234278
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 1,
+                        "startOffset": 5733,
+                        "endColumn": 43,
+                        "endOffset": 5775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4820,
+                    "startColumn": 4,
+                    "startOffset": 234283,
+                    "endColumn": 43,
+                    "endOffset": 234322
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2175,
+                        "endColumn": 40,
+                        "endOffset": 2214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4821,
+                    "startColumn": 4,
+                    "startOffset": 234327,
+                    "endColumn": 43,
+                    "endOffset": 234366
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1176,
+                        "endColumn": 40,
+                        "endOffset": 1215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4822,
+                    "startColumn": 4,
+                    "startOffset": 234371,
+                    "endColumn": 42,
+                    "endOffset": 234409
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1255,
+                        "endColumn": 39,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4823,
+                    "startColumn": 4,
+                    "startOffset": 234414,
+                    "endColumn": 44,
+                    "endOffset": 234454
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 1,
+                        "startOffset": 6410,
+                        "endColumn": 41,
+                        "endOffset": 6450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4824,
+                    "startColumn": 4,
+                    "startOffset": 234459,
+                    "endColumn": 45,
+                    "endOffset": 234500
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1295,
+                        "endColumn": 42,
+                        "endOffset": 1336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4825,
+                    "startColumn": 4,
+                    "startOffset": 234505,
+                    "endColumn": 38,
+                    "endOffset": 234539
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 1,
+                        "startOffset": 6337,
+                        "endColumn": 35,
+                        "endOffset": 6371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4826,
+                    "startColumn": 4,
+                    "startOffset": 234544,
+                    "endColumn": 41,
+                    "endOffset": 234581
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 1923,
+                        "endColumn": 38,
+                        "endOffset": 1960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4827,
+                    "startColumn": 4,
+                    "startOffset": 234586,
+                    "endColumn": 39,
+                    "endOffset": 234621
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 1,
+                        "startOffset": 4504,
+                        "endColumn": 36,
+                        "endOffset": 4539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4828,
+                    "startColumn": 4,
+                    "startOffset": 234626,
+                    "endColumn": 43,
+                    "endOffset": 234665
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 1,
+                        "startOffset": 4876,
+                        "endColumn": 40,
+                        "endOffset": 4915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4829,
+                    "startColumn": 4,
+                    "startOffset": 234670,
+                    "endColumn": 40,
+                    "endOffset": 234706
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1492,
+                        "endColumn": 37,
+                        "endOffset": 1528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4830,
+                    "startColumn": 4,
+                    "startOffset": 234711,
+                    "endColumn": 43,
+                    "endOffset": 234750
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 1729,
+                        "endColumn": 40,
+                        "endOffset": 1768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4831,
+                    "startColumn": 4,
+                    "startOffset": 234755,
+                    "endColumn": 40,
+                    "endOffset": 234791
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 1,
+                        "startOffset": 3020,
+                        "endColumn": 37,
+                        "endOffset": 3056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4832,
+                    "startColumn": 4,
+                    "startOffset": 234796,
+                    "endColumn": 47,
+                    "endOffset": 234839
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 1,
+                        "startOffset": 2571,
+                        "endColumn": 44,
+                        "endOffset": 2614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4833,
+                    "startColumn": 4,
+                    "startOffset": 234844,
+                    "endColumn": 43,
+                    "endOffset": 234883
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 1,
+                        "startOffset": 4005,
+                        "endColumn": 40,
+                        "endOffset": 4044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4834,
+                    "startColumn": 4,
+                    "startOffset": 234888,
+                    "endColumn": 47,
+                    "endOffset": 234931
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 1,
+                        "startOffset": 3676,
+                        "endColumn": 44,
+                        "endOffset": 3719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4835,
+                    "startColumn": 4,
+                    "startOffset": 234936,
+                    "endColumn": 47,
+                    "endOffset": 234979
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 2934,
+                        "endColumn": 44,
+                        "endOffset": 2977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4836,
+                    "startColumn": 4,
+                    "startOffset": 234984,
+                    "endColumn": 44,
+                    "endOffset": 235024
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1088,
+                        "endColumn": 41,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4837,
+                    "startColumn": 4,
+                    "startOffset": 235029,
+                    "endColumn": 43,
+                    "endOffset": 235068
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1338,
+                        "endColumn": 40,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4838,
+                    "startColumn": 4,
+                    "startOffset": 235073,
+                    "endColumn": 38,
+                    "endOffset": 235107
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 1,
+                        "startOffset": 3214,
+                        "endColumn": 35,
+                        "endOffset": 3248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4839,
+                    "startColumn": 4,
+                    "startOffset": 235112,
+                    "endColumn": 38,
+                    "endOffset": 235146
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1415,
+                        "endColumn": 35,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4840,
+                    "startColumn": 4,
+                    "startOffset": 235151,
+                    "endColumn": 38,
+                    "endOffset": 235185
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 2818,
+                        "endColumn": 35,
+                        "endOffset": 2852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4841,
+                    "startColumn": 4,
+                    "startOffset": 235190,
+                    "endColumn": 44,
+                    "endOffset": 235230
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 1,
+                        "startOffset": 3588,
+                        "endColumn": 41,
+                        "endOffset": 3628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4842,
+                    "startColumn": 4,
+                    "startOffset": 235235,
+                    "endColumn": 40,
+                    "endOffset": 235271
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 1,
+                        "startOffset": 4541,
+                        "endColumn": 37,
+                        "endOffset": 4577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4843,
+                    "startColumn": 4,
+                    "startOffset": 235276,
+                    "endColumn": 37,
+                    "endOffset": 235309
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1888,
+                        "endColumn": 34,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4844,
+                    "startColumn": 4,
+                    "startOffset": 235314,
+                    "endColumn": 43,
+                    "endOffset": 235353
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 1,
+                        "startOffset": 3417,
+                        "endColumn": 40,
+                        "endOffset": 3456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4845,
+                    "startColumn": 4,
+                    "startOffset": 235358,
+                    "endColumn": 43,
+                    "endOffset": 235397
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 1,
+                        "startOffset": 5349,
+                        "endColumn": 40,
+                        "endOffset": 5388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4846,
+                    "startColumn": 4,
+                    "startOffset": 235402,
+                    "endColumn": 45,
+                    "endOffset": 235443
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 1,
+                        "startOffset": 4218,
+                        "endColumn": 42,
+                        "endOffset": 4259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4847,
+                    "startColumn": 4,
+                    "startOffset": 235448,
+                    "endColumn": 40,
+                    "endOffset": 235484
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 2095,
+                        "endColumn": 37,
+                        "endOffset": 2131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4848,
+                    "startColumn": 4,
+                    "startOffset": 235489,
+                    "endColumn": 44,
+                    "endOffset": 235529
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 2332,
+                        "endColumn": 41,
+                        "endOffset": 2372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4849,
+                    "startColumn": 4,
+                    "startOffset": 235534,
+                    "endColumn": 42,
+                    "endOffset": 235572
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 1,
+                        "startOffset": 5563,
+                        "endColumn": 39,
+                        "endOffset": 5601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4850,
+                    "startColumn": 4,
+                    "startOffset": 235577,
+                    "endColumn": 42,
+                    "endOffset": 235615
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1003,
+                        "endColumn": 39,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4851,
+                    "startColumn": 4,
+                    "startOffset": 235620,
+                    "endColumn": 40,
+                    "endOffset": 235656
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 1,
+                        "startOffset": 3882,
+                        "endColumn": 37,
+                        "endOffset": 3918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4852,
+                    "startColumn": 4,
+                    "startOffset": 235661,
+                    "endColumn": 40,
+                    "endOffset": 235697
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 1,
+                        "startOffset": 3338,
+                        "endColumn": 37,
+                        "endOffset": 3374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4853,
+                    "startColumn": 4,
+                    "startOffset": 235702,
+                    "endColumn": 41,
+                    "endOffset": 235739
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 1,
+                        "startOffset": 4429,
+                        "endColumn": 38,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4854,
+                    "startColumn": 4,
+                    "startOffset": 235744,
+                    "endColumn": 43,
+                    "endOffset": 235783
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 1,
+                        "startOffset": 4917,
+                        "endColumn": 40,
+                        "endOffset": 4956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4855,
+                    "startColumn": 4,
+                    "startOffset": 235788,
+                    "endColumn": 43,
+                    "endOffset": 235827
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 1,
+                        "startOffset": 4835,
+                        "endColumn": 40,
+                        "endOffset": 4874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4856,
+                    "startColumn": 4,
+                    "startOffset": 235832,
+                    "endColumn": 38,
+                    "endOffset": 235866
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 840,
+                        "endColumn": 35,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4857,
+                    "startColumn": 4,
+                    "startOffset": 235871,
+                    "endColumn": 45,
+                    "endOffset": 235912
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 1,
+                        "startOffset": 5849,
+                        "endColumn": 42,
+                        "endOffset": 5890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4858,
+                    "startColumn": 4,
+                    "startOffset": 235917,
+                    "endColumn": 43,
+                    "endOffset": 235956
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 1,
+                        "startOffset": 5308,
+                        "endColumn": 40,
+                        "endOffset": 5347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4859,
+                    "startColumn": 4,
+                    "startOffset": 235961,
+                    "endColumn": 37,
+                    "endOffset": 235994
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 1,
+                        "startOffset": 3138,
+                        "endColumn": 34,
+                        "endOffset": 3171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4860,
+                    "startColumn": 4,
+                    "startOffset": 235999,
+                    "endColumn": 38,
+                    "endOffset": 236033
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 1,
+                        "startOffset": 6105,
+                        "endColumn": 35,
+                        "endOffset": 6139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4861,
+                    "startColumn": 4,
+                    "startOffset": 236038,
+                    "endColumn": 41,
+                    "endOffset": 236075
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 1,
+                        "startOffset": 3058,
+                        "endColumn": 38,
+                        "endOffset": 3095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4862,
+                    "startColumn": 4,
+                    "startOffset": 236080,
+                    "endColumn": 40,
+                    "endOffset": 236116
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 1691,
+                        "endColumn": 37,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4863,
+                    "startColumn": 4,
+                    "startOffset": 236121,
+                    "endColumn": 43,
+                    "endOffset": 236160
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 1,
+                        "startOffset": 5390,
+                        "endColumn": 40,
+                        "endOffset": 5429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4864,
+                    "startColumn": 4,
+                    "startOffset": 236165,
+                    "endColumn": 40,
+                    "endOffset": 236201
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 1,
+                        "startOffset": 2616,
+                        "endColumn": 37,
+                        "endOffset": 2652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4865,
+                    "startColumn": 4,
+                    "startOffset": 236206,
+                    "endColumn": 39,
+                    "endOffset": 236241
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 2295,
+                        "endColumn": 36,
+                        "endOffset": 2330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4866,
+                    "startColumn": 4,
+                    "startOffset": 236246,
+                    "endColumn": 39,
+                    "endOffset": 236281
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 685,
+                        "endColumn": 36,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4867,
+                    "startColumn": 4,
+                    "startOffset": 236286,
+                    "endColumn": 44,
+                    "endOffset": 236326
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 2216,
+                        "endColumn": 41,
+                        "endOffset": 2256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4868,
+                    "startColumn": 4,
+                    "startOffset": 236331,
+                    "endColumn": 40,
+                    "endOffset": 236367
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 802,
+                        "endColumn": 37,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4869,
+                    "startColumn": 4,
+                    "startOffset": 236372,
+                    "endColumn": 45,
+                    "endOffset": 236413
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 1,
+                        "startOffset": 3920,
+                        "endColumn": 42,
+                        "endOffset": 3961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4870,
+                    "startColumn": 4,
+                    "startOffset": 236418,
+                    "endColumn": 38,
+                    "endOffset": 236452
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 431,
+                        "endColumn": 35,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4871,
+                    "startColumn": 4,
+                    "startOffset": 236457,
+                    "endColumn": 39,
+                    "endOffset": 236492
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 648,
+                        "endColumn": 36,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4872,
+                    "startColumn": 4,
+                    "startOffset": 236497,
+                    "endColumn": 38,
+                    "endOffset": 236531
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 576,
+                        "endColumn": 35,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4873,
+                    "startColumn": 4,
+                    "startOffset": 236536,
+                    "endColumn": 41,
+                    "endOffset": 236573
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 170,
+                        "endColumn": 38,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4874,
+                    "startColumn": 4,
+                    "startOffset": 236578,
+                    "endColumn": 38,
+                    "endOffset": 236612
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 282,
+                        "endColumn": 35,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4875,
+                    "startColumn": 4,
+                    "startOffset": 236617,
+                    "endColumn": 39,
+                    "endOffset": 236652
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 539,
+                        "endColumn": 36,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4876,
+                    "startColumn": 4,
+                    "startOffset": 236657,
+                    "endColumn": 38,
+                    "endOffset": 236691
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 467,
+                        "endColumn": 35,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4877,
+                    "startColumn": 4,
+                    "startOffset": 236696,
+                    "endColumn": 40,
+                    "endOffset": 236732
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 393,
+                        "endColumn": 37,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4878,
+                    "startColumn": 4,
+                    "startOffset": 236737,
+                    "endColumn": 38,
+                    "endOffset": 236771
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 612,
+                        "endColumn": 35,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4879,
+                    "startColumn": 4,
+                    "startOffset": 236776,
+                    "endColumn": 39,
+                    "endOffset": 236811
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 318,
+                        "endColumn": 36,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4880,
+                    "startColumn": 4,
+                    "startOffset": 236816,
+                    "endColumn": 40,
+                    "endOffset": 236852
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 355,
+                        "endColumn": 37,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4881,
+                    "startColumn": 4,
+                    "startOffset": 236857,
+                    "endColumn": 37,
+                    "endOffset": 236890
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 209,
+                        "endColumn": 34,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4882,
+                    "startColumn": 4,
+                    "startOffset": 236895,
+                    "endColumn": 40,
+                    "endOffset": 236931
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 244,
+                        "endColumn": 37,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4883,
+                    "startColumn": 4,
+                    "startOffset": 236936,
+                    "endColumn": 43,
+                    "endOffset": 236975
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 54,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4884,
+                    "startColumn": 4,
+                    "startOffset": 236980,
+                    "endColumn": 38,
+                    "endOffset": 237014
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 503,
+                        "endColumn": 35,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4885,
+                    "startColumn": 4,
+                    "startOffset": 237019,
+                    "endColumn": 39,
+                    "endOffset": 237054
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 95,
+                        "endColumn": 36,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4886,
+                    "startColumn": 4,
+                    "startOffset": 237059,
+                    "endColumn": 40,
+                    "endOffset": 237095
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/Colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 132,
+                        "endColumn": 37,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4887,
+                    "startColumn": 4,
+                    "startOffset": 237100,
+                    "endColumn": 57,
+                    "endOffset": 237153
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4888,
+                    "startColumn": 4,
+                    "startOffset": 237158,
+                    "endColumn": 55,
+                    "endOffset": 237209
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4889,
+                    "startColumn": 4,
+                    "startOffset": 237214,
+                    "endColumn": 52,
+                    "endOffset": 237262
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4890,
+                    "startColumn": 4,
+                    "startOffset": 237267,
+                    "endColumn": 53,
+                    "endOffset": 237316
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4891,
+                    "startColumn": 4,
+                    "startOffset": 237321,
+                    "endColumn": 54,
+                    "endOffset": 237371
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 54,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4892,
+                    "startColumn": 4,
+                    "startOffset": 237376,
+                    "endColumn": 43,
+                    "endOffset": 237415
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 43,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4893,
+                    "startColumn": 4,
+                    "startOffset": 237420,
+                    "endColumn": 58,
+                    "endOffset": 237474
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 58,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4894,
+                    "startColumn": 4,
+                    "startOffset": 237479,
+                    "endColumn": 54,
+                    "endOffset": 237529
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 54,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4895,
+                    "startColumn": 4,
+                    "startOffset": 237534,
+                    "endColumn": 54,
+                    "endOffset": 237584
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 54,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4896,
+                    "startColumn": 4,
+                    "startOffset": 237589,
+                    "endColumn": 41,
+                    "endOffset": 237626
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 41,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4897,
+                    "startColumn": 4,
+                    "startOffset": 237631,
+                    "endColumn": 53,
+                    "endOffset": 237680
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 8,
+                        "startOffset": 477,
+                        "endColumn": 57,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4898,
+                    "startColumn": 4,
+                    "startOffset": 237685,
+                    "endLine": 4904,
+                    "endColumn": 12,
+                    "endOffset": 237971
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4905,
+                    "startColumn": 4,
+                    "startOffset": 237976,
+                    "endLine": 4907,
+                    "endColumn": 12,
+                    "endOffset": 238131
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4908,
+                    "startColumn": 4,
+                    "startOffset": 238136,
+                    "endLine": 4912,
+                    "endColumn": 9,
+                    "endOffset": 238345
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endLine": 23,
+                        "endColumn": 9,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4913,
+                    "startColumn": 4,
+                    "startOffset": 238350,
+                    "endLine": 4916,
+                    "endColumn": 8,
+                    "endOffset": 238491
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 0,
+                        "startOffset": 1437,
+                        "endLine": 41,
+                        "endColumn": 8,
+                        "endOffset": 1578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4917,
+                    "startColumn": 4,
+                    "startOffset": 238496,
+                    "endLine": 4919,
+                    "endColumn": 8,
+                    "endOffset": 238633
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 1146,
+                        "endLine": 32,
+                        "endColumn": 8,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4920,
+                    "startColumn": 4,
+                    "startOffset": 238638,
+                    "endLine": 4922,
+                    "endColumn": 8,
+                    "endOffset": 238788
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 1285,
+                        "endLine": 36,
+                        "endColumn": 8,
+                        "endOffset": 1435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4923,
+                    "startColumn": 4,
+                    "startOffset": 238793,
+                    "endLine": 4926,
+                    "endColumn": 8,
+                    "endOffset": 239051
+                },
+                "from": {
+                    "file": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endLine": 28,
+                        "endColumn": 8,
+                        "endOffset": 1144
+                    }
+                }
+            }
+        ]
+    }
+]

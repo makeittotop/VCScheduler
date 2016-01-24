@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_refresh.png",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_settings.png",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/drawable-mdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_refresh_light.png",
+        "source": "/home/apareek/AndroidStudioProjects/RnHVCScheduler/app/src/main/res/drawable-mdpi/ic_action_refresh_light.png"
+    }
+]
